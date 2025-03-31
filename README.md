@@ -6,7 +6,7 @@
 - 👯 I’m looking to contibute to opensource project.
 - 📫 How to reach me: ... <br />
  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/balajibalakris/) 
-- 😄 Pronouns: bala 😉
+- 😄 Pronouns: dev 😉
 <br />
 
 ### I code in
