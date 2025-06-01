@@ -1,7 +1,9 @@
 <p align="center"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="logo.jpeg" /></p>
 <!-- <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif"> -->
 
-- 🔭 Software Engineer @ Bi Worldwide from 🇮🇳.
+Backend developer (Java, Spring Boot) growing expertise in GenAI, full-stack & cloud. On a path to become a trusted tech leader known for building stable, scalable, reliable systems.
+
+- 🔭Senior Software Engineer @ BNP Paribas from 🇮🇳.
 - 🌱 I’m currently working on backend Development with Java.
 - 👯 I’m looking to contibute to opensource project.
 - 📫 How to reach me: ... <br />
