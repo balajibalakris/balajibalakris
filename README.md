@@ -31,13 +31,6 @@ On a path to become a trusted tech leader known for building stable, scalable, r
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=balajibalakris&theme=dark&show_icons=true&hide=issues,contribs)
 
----
-
-### 🔢 LeetCode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/balaji_balakrishnan?theme=nord&font=Assistant&ext=heatmap)
-
----
 
 ### 📈 Activity Graph
 
