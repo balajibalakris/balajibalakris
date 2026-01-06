@@ -6,12 +6,25 @@
 
 ### 👋 Hi, I'm Balaji
 
-Backend developer (Java, Spring Boot) growing expertise in GenAI, full-stack & cloud.  
-On a path to become a trusted tech leader known for building stable, scalable, reliable systems.
+Backend Engineer specializing in Java and Spring-based systems.
 
-- 🔭 **Senior Software Engineer @ BNP Paribas** from 🇮🇳  
-- 🌱 Currently working on backend development with Java & Spring Boot  
-- 👯 Looking to contribute to open-source projects  
+Experience in building and maintaining batch processing pipelines, document ingestion workflows, and reliability-focused backend services in regulated environments.
+
+Currently working on:
+- Backend services in Java / Spring
+- File processing and data ingestion pipelines
+- Failure handling, idempotency, and system reliability
+
+Professional focus:
+- Distributed systems fundamentals
+- Data pipelines and batch processing
+- Production correctness over novelty
+
+Senior Software Engineer @ BNP Paribas  
+India
+
+LinkedIn:
+
 - 📫 Reach me on:  
   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/balajibalakris/)  
 
